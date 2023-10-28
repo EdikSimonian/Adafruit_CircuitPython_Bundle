@@ -968,3 +968,6 @@
 [submodule "libraries/drivers/husb238"]
 	path = libraries/drivers/husb238
 	url = https://github.com/adafruit/Adafruit_CircuitPython_HUSB238.git
+[submodule "libraries/helpers/amqtt"]
+	path = libraries/helpers/amqtt
+	url = https://github.com/Yakifo/amqtt.git
